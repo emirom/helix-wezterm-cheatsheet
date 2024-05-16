@@ -13,23 +13,17 @@ hx ~/wezterm.lua <br />
 #panes :the name of tabs in wezterm <br />
 
 new pane: ctrl-shift-t <br />
-
 search in pane: ctrl-shift-f <br />
-
 switch pane: ctrl-tab <br />
 
 new side pane: cmd(win)+' <br />
-
 (then br for broot file explorer) <br />
 
 new down pane: cmd(win)+/ <br />
-
 (then run deno app: deno task dev) <br />
 
-close pane: win-x <br />
-
+close pane: win-x <br /
 left pane: ctrl+win+h <br />
-
 right pane: ctrl+win+l <br />
 
 ======================
@@ -42,22 +36,15 @@ hx . <br />
 ------------------- <br />
 
 #buffer: name of tabs in helix <br />
-
 buffer picker: space+f <br />
-
 buffer siwtch: tab, shift+tab <br />
-
 go next buffer: gn <br />
-
 go prev buffer: gp <br />
-
 buffer close: :bc, :bc! >force <br />
 
-
+-------------- 
 broot: win+b <br />
-
 gitui: win+g <br />
-
 close: win+x <br />
 
 ============
@@ -69,11 +56,9 @@ redo: alt+u <br />
 
 esc: normal mode  <br />
  in normal mode: <br />
+ove:(number+) h j <br />
 
-move:(number+) h j <br />
-
-
-
+------------------
 select then action <br />
  select: <br />
   till: t <br />
@@ -95,14 +80,10 @@ yank selection to os clipboard: space+y <br />
 
 -----------------
 
-search in file: /  <br />
-
-search in workspace: space /  <br />
-
+search in file: /  <br /
+search in workspace: space /  <br /
 next result: then: n, <br />
-
 prevois result: shift+n <br />
-
 move cursor to founded result: enter <br />
 
 ---------------
@@ -143,24 +124,24 @@ match in word: miw <br />
 
 ---------------
 
-put tab before many lines(ex: inside a block of code {})
-visual mode: v
-select lines: x and j
-make tab: >  
+put tab before many lines(ex: inside a block of code {}) <br />
+visual mode: v <br />
+select lines: x and j <br />
+make tab: >  <br />
 
 -------------
 **broot:**
 
 https://dystroy.org/broot/file-operations/
 
-make directory  :md <name>
-create file: :cr <filename>
-remove :rm
-move :mv
+make directory  :md <name> <br />
+create file: :cr <filename> <br />
+remove :rm <br />
+move :mv <br />
 
-run broot whale hunt(sortByFileSize): br -w 
+run broot whale hunt(sortByFileSize): br -w <br /> 
 
 
 ================================
-https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers#typescript
+https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers#typescript <br />
 npm install -g typescript typescript-language-server
