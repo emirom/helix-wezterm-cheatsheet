@@ -47,7 +47,7 @@ broot: win+b <br />
 gitui: win+g <br />
 close: win+x <br />
 
-============
+============ <br />
 helix commands: <br />
 i: insert mode <br />
 
