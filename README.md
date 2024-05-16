@@ -48,9 +48,10 @@ broot: win+b <br />
 gitui: win+g <br />
 close: win+x <br />
 
-============ <br />
+--------------
 helix commands: <br />
 i: insert mode <br />
+esc: back to normal mode <br />
 
 undo: u <br />
 redo: alt+u <br />
@@ -75,9 +76,17 @@ force write and exit: :x <br />
 
 -------------
 select line(s): x, shift+x <br />
+<br />
+select all of the page:<br />
+go first line: gg <br />
+visual mode: v <br />
+go end: ge <br />
+yank : y <br />
+<br />
+yank selection to os clipboard: space+y <br />
 comment selection: cntrl+c <br />
 multiple cursor:   shift+c <br />
-yank selection to os clipboard: space+y <br />
+
 
 -------------
 
