@@ -131,6 +131,10 @@ visual mode: v <br />
 select lines: x and j <br />
 make tab: >  <br />
 
+fix ts-lsp in helix:
+https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers#typescript <br />
+npm install -g typescript typescript-language-server
+
 -------------
 **broot:**
 
@@ -143,6 +147,4 @@ move :mv <br />
 
 run broot whale hunt(sortByFileSize): br -w <br /> 
 
--------------
-https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers#typescript <br />
-npm install -g typescript typescript-language-server
+
