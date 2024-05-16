@@ -26,14 +26,15 @@ close pane: win-x <br /
 left pane: ctrl+win+h <br />
 right pane: ctrl+win+l <br />
 
-======================
+-------------
 
 **helix:**
 
 z address,
 
 hx . <br />
-------------------- <br />
+-------------
+<br />
 
 #buffer: name of tabs in helix <br />
 buffer picker: space+f <br />
@@ -72,13 +73,13 @@ save: :w <br />
 exit: :q <br />
 force write and exit: :x <br />
 
-----------------
+-------------
 select line(s): x, shift+x <br />
 comment selection: cntrl+c <br />
 multiple cursor:   shift+c <br />
 yank selection to os clipboard: space+y <br />
 
------------------
+-------------
 
 search in file: /  <br /
 search in workspace: space /  <br /
@@ -86,14 +87,15 @@ next result: then: n, <br />
 prevois result: shift+n <br />
 move cursor to founded result: enter <br />
 
----------------
+-------------
 
 change founded word: miwc <br />
 match in word: miw <br />
 select word then line then paragraph: alt+o <br />
 then change: c <br />
 
--------------- <br />
+--------------
+<br />
 select till end of this line: t+enter <br />
 
 put selection inside ()= match soround ( = ms(  <br />
@@ -113,7 +115,7 @@ next paragraph: ] p <br />
 match in tag: mi<   <br />
 go last modify: g. <br />
 
----------
+-------------
 
 go start(word of line): gs <br />
 go last(word of line): gl <br />
@@ -122,7 +124,7 @@ go last-line:ge <br />
 match matching bracket: mm <br />
 match in word: miw <br />
 
----------------
+-------------
 
 put tab before many lines(ex: inside a block of code {}) <br />
 visual mode: v <br />
@@ -141,7 +143,6 @@ move :mv <br />
 
 run broot whale hunt(sortByFileSize): br -w <br /> 
 
-
-================================
+-------------
 https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers#typescript <br />
 npm install -g typescript typescript-language-server
