@@ -8,138 +8,138 @@ and [broot](https://dystroy.org/broot/install/) for browsing the files, also i r
 So these are the most used commands to remember:<br />
 **wezterm:**<br />
 
-hx ~/wezterm.lua
+hx ~/wezterm.lua <br />
 
-#panes :the name of tabs in wezterm
+#panes :the name of tabs in wezterm <br />
 
-new pane: ctrl-shift-t
+new pane: ctrl-shift-t <br />
 
-search in pane: ctrl-shift-f
+search in pane: ctrl-shift-f <br />
 
-switch pane: ctrl-tab
+switch pane: ctrl-tab <br />
 
-new side pane: cmd(win)+'
+new side pane: cmd(win)+' <br />
 
-(then br for broot file explorer)
+(then br for broot file explorer) <br />
 
-new down pane: cmd(win)+/
+new down pane: cmd(win)+/ <br />
 
-(then run deno app: deno task dev)
+(then run deno app: deno task dev) <br />
 
-close pane: win-x
+close pane: win-x <br />
 
-left pane: ctrl+win+h
+left pane: ctrl+win+h <br />
 
-right pane: ctrl+win+l
+right pane: ctrl+win+l <br />
 
+======================
 
-##########################################
 **helix:**
 
 z address,
 
-hx .
--------------------
+hx . <br />
+------------------- <br />
 
-#buffer: name of tabs in helix
+#buffer: name of tabs in helix <br />
 
-buffer picker: space+f
+buffer picker: space+f <br />
 
-buffer siwtch: tab, shift+tab
+buffer siwtch: tab, shift+tab <br />
 
-go next buffer: gn
+go next buffer: gn <br />
 
-go prev buffer: gp
+go prev buffer: gp <br />
 
-buffer close: :bc, :bc! >force
+buffer close: :bc, :bc! >force <br />
 
 
-broot: win+b
+broot: win+b <br />
 
-gitui: win+g
+gitui: win+g <br />
 
-close: win+x
+close: win+x <br />
 
 ============
-helix commands:
-i: insert mode
+helix commands: <br />
+i: insert mode <br />
 
-undo: u
-redo: alt+u
+undo: u <br />
+redo: alt+u <br />
 
-esc: normal mode 
- in normal mode:
+esc: normal mode  <br />
+ in normal mode: <br />
 
-move:(number+) h j
+move:(number+) h j <br />
 
 
 
-select then action
- select:
-  till: t
-  word: w
+select then action <br />
+ select: <br />
+  till: t <br />
+  word: w  <br />
 
- action:
-   copy=yank: y
-   delete: d
+ action: <br />
+   copy=yank: y <br />
+   delete: d <br />
 
-save: :w
-exit: :q
-force write and exit: :x
+save: :w <br />
+exit: :q <br />
+force write and exit: :x <br />
 
 ----------------
-select line(s): x, shift+x
-comment selection: cntrl+c
-multiple cursor:   shift+c
-yank selection to os clipboard: space+y
+select line(s): x, shift+x <br />
+comment selection: cntrl+c <br />
+multiple cursor:   shift+c <br />
+yank selection to os clipboard: space+y <br />
 
 -----------------
 
-search in file: /  
+search in file: /  <br />
 
-search in workspace: space /
+search in workspace: space /  <br />
 
-next result: then: n,
+next result: then: n, <br />
 
-prevois result: shift+n
+prevois result: shift+n <br />
 
-move cursor to founded result: enter
+move cursor to founded result: enter <br />
 
 ---------------
 
-change founded word: miwc
-match in word: miw
-select word then line then paragraph: alt+o
-then change: c
+change founded word: miwc <br />
+match in word: miw <br />
+select word then line then paragraph: alt+o <br />
+then change: c <br />
 
---------------
-select till end of this line: t+enter
+-------------- <br />
+select till end of this line: t+enter <br />
 
-put selection inside ()= match soround ( = ms(
-
---------
-
-go defenition: gd
-go access(last file):ga
+put selection inside ()= match soround ( = ms(  <br />
 
 --------
-next diagnostic(error): ]d 
-prev diagnostic(error): [d 
+
+go defenition: gd <br />
+go access(last file):ga <br />
+
+--------
+next diagnostic(error): ]d <br />
+prev diagnostic(error): [d <br />
 
 -----
 
-next paragraph: ] p
-match in tag: mi<
-go last modify: g.
+next paragraph: ] p <br />
+match in tag: mi<   <br />
+go last modify: g. <br />
 
 ---------
 
-go start(word of line): gs
-go last(word of line): gl
-go first-line: gg
-go last-line:ge
-match matching bracket: mm
-match in word: miw
+go start(word of line): gs <br />
+go last(word of line): gl <br />
+go first-line: gg <br />
+go last-line:ge <br />
+match matching bracket: mm <br />
+match in word: miw <br />
 
 ---------------
 
