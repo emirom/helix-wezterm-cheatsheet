@@ -140,9 +140,19 @@ visual mode: v <br />
 select lines: x and j <br />
 make tab: >  <br />
 
+
 fix ts-lsp in helix:
 https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers#typescript <br />
 npm install -g typescript typescript-language-server
+
+-------------
+replace all : <br />
+select a word: w <br />
+put to register: @ <br />
+visual mode: v <br />
+find next: n <br />
+change word: c <br />
+type your word
 
 -------------
 **broot:**
