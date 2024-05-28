@@ -1,4 +1,4 @@
-# helix-wezterm-chitsheet
+# helix-wezterm-cheatsheet
 a cheetshit for using helix as editor and wezterm as a terminal 
 
 Are you happy with using a light editor like helix? <br />
