@@ -30,7 +30,7 @@ right pane: ctrl+win+l <br />
 
 **helix:**
 
-z address
+z address<br />
 hx . <br />
 
 -------------
