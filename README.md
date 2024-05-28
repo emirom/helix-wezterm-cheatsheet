@@ -3,7 +3,7 @@ a cheetshit for using helix as editor and wezterm as a terminal
 
 Are you happy with using a light editor like helix? <br />
 It's better to [install wezterm](https://wezfurlong.org/wezterm/installation.html) 
-and [broot](https://dystroy.org/broot/install/) for browsing the files, also i recommend [zsh](https://ohmyz.sh/#install) as the shell. <br />
+and [broot](https://dystroy.org/broot/install/) for browsing the files, also i recommend [fish](https://fishshell.com/) as the shell. <br />
 <br />
 So these are the most used commands to remember:<br />
 **wezterm:**<br />
