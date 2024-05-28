@@ -6,7 +6,7 @@ It's better to [install wezterm](https://wezfurlong.org/wezterm/installation.htm
 and [broot](https://dystroy.org/broot/install/) for browsing the files, also i recommend [fish](https://fishshell.com/) as the shell. <br />
 <br />
 So these are the most used commands to remember:<br />
-**wezterm:**<br />
+<h2>wezterm:</h2>
 
 hx ~/wezterm.lua <br />
 
@@ -28,7 +28,7 @@ right pane: ctrl+win+l <br />
 
 -------------
 
-**helix:**
+<h2>helix:</h2>
 
 z address<br />
 hx . <br />
