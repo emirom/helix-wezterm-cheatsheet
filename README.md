@@ -132,6 +132,7 @@ go last(word of line): gl <br />
 go first-line: gg <br />
 go last-line:ge <br />
 match matching bracket: mm <br />
+delete matching bracket around: mdm <br />
 match in word: miw <br />
 
 -------------
