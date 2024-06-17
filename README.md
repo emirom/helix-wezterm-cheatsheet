@@ -23,7 +23,7 @@ new side pane: cmd(win)+' <br />
 new down pane: cmd(win)+/ <br />
 (then run deno app: deno task dev) <br />
 
-close pane: win-x <br /
+close pane: win-x <br />
 left pane: ctrl+win+h <br />
 right pane: ctrl+win+l <br />
 
